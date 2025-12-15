@@ -22,7 +22,7 @@ Unicode to Bamini Converter is a professional, modern, and high-performance Tami
 
 1. **Clone or Download** the repository.
    ```bash
-   git clone https://github.com/hasnizihar/u2b.git
+   git clone https://github.com/hasnizihar/Unicode-to-Bamini.git
    ```
 2. **Open** the project folder.
 3. **Launch** `index.html` in any modern web browser.
@@ -41,3 +41,4 @@ Unicode to Bamini Converter is a professional, modern, and high-performance Tami
 ## License
 
 This project is open-source and available for personal and educational use.
+
